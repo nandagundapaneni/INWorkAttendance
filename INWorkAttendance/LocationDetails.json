@@ -1,0 +1,63 @@
+{
+    "results": [
+                {
+                "address_components": [
+                                       {
+                                       "long_name": "Hyderabad",
+                                       "short_name": "Hyderabad",
+                                       "types": [
+                                                 "locality",
+                                                 "political"
+                                                 ]
+                                       },
+                                       {
+                                       "long_name": "Telangana",
+                                       "short_name": "Telangana",
+                                       "types": [
+                                                 "administrative_area_level_1",
+                                                 "political"
+                                                 ]
+                                       },
+                                       {
+                                       "long_name": "India",
+                                       "short_name": "IN",
+                                       "types": [
+                                                 "country",
+                                                 "political"
+                                                 ]
+                                       },
+                                       {
+                                       "long_name": "500081",
+                                       "short_name": "500081",
+                                       "types": [
+                                                 "postal_code"
+                                                 ]
+                                       }
+                                       ],
+                "formatted_address": "Level 6, N Heights, Plot No 38, Phase 2, HiTEC City, Hyderabad, Siddiq Nagar, HITEC City, Hyderabad, Telangana 500081, India",
+                "geometry": {
+                "location": {
+                "lat": 17.45109,
+                "lng": 78.37061
+                },
+                "location_type": "GEOMETRIC_CENTER",
+                "viewport": {
+                "northeast": {
+                "lat": 17.45243898029151,
+                "lng": 78.37195898029151
+                },
+                "southwest": {
+                "lat": 17.4497410197085,
+                "lng": 78.3692610197085
+                }
+                }
+                },
+                "place_id": "ChIJm-Psj8STyzsRGikh4kKEvdE",
+                "types": [
+                          "establishment",
+                          "point_of_interest"
+                          ]
+                }
+                ],
+    "status": "OK"
+}
